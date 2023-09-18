@@ -60,7 +60,7 @@ export default {
     methods: {
     async submitForm() {
         try {
-            const response = await fetch('https://gracer.vercel.app/contact', {
+            const response = await fetch('https://graces-portfolio.vercel.app/contact', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
