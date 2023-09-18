@@ -58,31 +58,31 @@ export default {
  
 
     methods: {
-    async submitForm() {
-        try {
-            const response = await fetch('https://graces-portfolio.vercel.app/contact', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({
-                    name: this.name,
-                    message: this.message,
-                    email: this.email,
-                    phone: this.phone
+    // async submitForm() {
+    //     try {
+    //         const response = await fetch('https://graces-portfolio.vercel.app/contact', {
+    //             method: 'POST',
+    //             headers: {
+    //                 'Content-Type': 'application/json'
+    //             },
+    //             body: JSON.stringify({
+    //                 name: this.name,
+    //                 message: this.message,
+    //                 email: this.email,
+    //                 phone: this.phone
 
-                })
-            });
-            const data = await response.json();
-            if(data.success) {
-                alert('Message sent!');
-            } else {
-                alert('Error sending message.');
-            }
-        } catch (error) {
-            alert('Failed to send message.');
-        }
-    }
+    //             })
+    //         });
+    //         const data = await response.json();
+    //         if(data.success) {
+    //             alert('Message sent!');
+    //         } else {
+    //             alert('Error sending message.');
+    //         }
+    //     } catch (error) {
+    //         alert('Failed to send message.');
+    //     }
+    // }
 }
 }
 
