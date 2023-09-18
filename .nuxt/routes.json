@@ -1,0 +1,32 @@
+[
+  {
+    "name": "audio",
+    "path": "/audio",
+    "component": "/Users/manueldelaportilla/graces-portfolio/Graces-Portfolio/pages/audio.vue",
+    "chunkName": "pages/audio"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/manueldelaportilla/graces-portfolio/Graces-Portfolio/pages/contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/manueldelaportilla/graces-portfolio/Graces-Portfolio/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "videos",
+    "path": "/videos",
+    "component": "/Users/manueldelaportilla/graces-portfolio/Graces-Portfolio/pages/videos.vue",
+    "chunkName": "pages/videos"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/manueldelaportilla/graces-portfolio/Graces-Portfolio/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]

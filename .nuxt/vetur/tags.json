@@ -1,0 +1,26 @@
+{
+  "AboutMe": {
+    "description": "Auto imported from components/AboutMe.vue"
+  },
+  "ContactForm": {
+    "description": "Auto imported from components/ContactForm.vue"
+  },
+  "MyTestimonials": {
+    "description": "Auto imported from components/MyTestimonials.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "ServicesList": {
+    "description": "Auto imported from components/ServicesList.vue"
+  },
+  "TransitionSlide": {
+    "description": "Auto imported from components/TransitionSlide.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}

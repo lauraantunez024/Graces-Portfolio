@@ -1,0 +1,35 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/about-me.js": "components/about-me.js",
+    "components/contact-form.js": "components/contact-form.js",
+    "components/my-testimonials.js": "components/my-testimonials.js",
+    "components/nuxt-logo.js": "components/nuxt-logo.js",
+    "components/services-list.js": "components/services-list.js",
+    "components/transition-slide.js": "components/transition-slide.js",
+    "components/tutorial.js": "components/tutorial.js",
+    "components/vuetify-logo.js": "components/vuetify-logo.js",
+    "pages/audio.js": "pages/audio.js",
+    "pages/contact.js": "pages/contact.js",
+    "pages/index.js": "pages/index.js",
+    "pages/inspire.js": "pages/inspire.js",
+    "pages/videos.js": "pages/videos.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/about-me.js": "components/about-me.js.map",
+    "components/contact-form.js": "components/contact-form.js.map",
+    "components/my-testimonials.js": "components/my-testimonials.js.map",
+    "components/nuxt-logo.js": "components/nuxt-logo.js.map",
+    "components/services-list.js": "components/services-list.js.map",
+    "components/transition-slide.js": "components/transition-slide.js.map",
+    "components/tutorial.js": "components/tutorial.js.map",
+    "components/vuetify-logo.js": "components/vuetify-logo.js.map",
+    "pages/audio.js": "pages/audio.js.map",
+    "pages/contact.js": "pages/contact.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/inspire.js": "pages/inspire.js.map",
+    "pages/videos.js": "pages/videos.js.map",
+    "server.js": "server.js.map"
+  }
+}
